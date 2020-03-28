@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+unbouncepages.com	TRUE	/eudokas/	FALSE	1999999999	ubpv	a%2C066dd06e-1e82-479a-b26b-c1ca453e6ca9
+unbouncepages.com	TRUE	/	FALSE	1999999999	ubvs	197.210.53.641585430948140295
+unbouncepages.com	TRUE	/	FALSE	1999999999	ubvt	197.210.53.641585430948140295
+
